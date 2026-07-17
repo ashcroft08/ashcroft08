@@ -22,7 +22,3 @@ Desarrollador Full Stack basado en Ecuador, especializado en la creación de apl
 - **Testing & Quality:** PHPUnit, Testing, CI/CD
 - **Tooling & DevOps:** Git, GitHub, GitHub Actions, Composer, npm, pnpm
 - **Data Engineering:** Database Design, Database Normalization, ETL Pipelines, Dashboard & Reporting
-
----
-
-Actualmente estoy profundizando en diseño de APIs escalables y patrones de arquitectura en sistemas distribuidos. Siempre abierto a charlar sobre nuevos proyectos y desafíos.
