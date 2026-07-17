@@ -7,10 +7,7 @@
 
 I'm a Full-Stack Developer from Ecuador who enjoys building web applications and learning new technologies. I like solving real-world problems with clean and maintainable code, whether it's developing APIs with Laravel or Node.js, or creating responsive interfaces with React. I'm always looking for ways to improve my skills and build software that makes a difference.
 
-<p>
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashcroft08&theme=github_dark" alt="GitHub Stats" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashcroft08&theme=github_dark" alt="Repos per Language" />
-</p>
+
 
 ---
 
