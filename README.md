@@ -57,6 +57,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashcroft08&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashcroft08&theme=react&hide_border=true&v=2" alt="GitHub Streak" />
-</p>
