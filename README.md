@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashcroft08.github.io-181717?style=flat-square&logo=github)](https://ashcroft08.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:johangracia40@gmail.com)
 
-Desarrollador Full Stack basado en Ecuador, especializado en la creación de aplicaciones web robustas y mantenibles. Mi enfoque es pragmático: utilizo el stack adecuado para resolver el problema, ya sea un monolito con **Laravel** o una arquitectura de servicios con **Node.js** y **React**. Creo en el código limpio, la arquitectura sólida y en entregar software que funciona y escala.
+Full-Stack Developer based in Ecuador, focused on building robust, scalable, and maintainable web applications. I enjoy designing practical solutions and choosing the right technology for each project—whether it's a Laravel monolith or a service-oriented architecture powered by Node.js and React. I'm passionate about clean code, software architecture, and creating applications that deliver real value.
 
 <p>
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashcroft08&theme=github_dark" alt="GitHub Stats" />
