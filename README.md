@@ -1,11 +1,17 @@
 <div align="center">
 
   <a href="https://github.com/ashcroft08">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashcroft08&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashcroft08&theme=react" alt="GitHub Profile Summary" />
   </a>
 
   <a href="https://github.com/ashcroft08">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcroft08&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashcroft08&theme=react" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ashcroft08">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashcroft08&theme=react" alt="Repos per Language" />
+  </a>
+  <a href="https://github.com/ashcroft08">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashcroft08&theme=react" alt="Most Commit Language" />
   </a>
 
   <br />
@@ -45,8 +51,12 @@
 
 ---
 
-### 📊 More Stats
+### 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashcroft08&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashcroft08&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashcroft08&theme=react&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
