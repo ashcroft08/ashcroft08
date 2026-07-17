@@ -16,13 +16,12 @@ Desarrollador Full Stack basado en Ecuador, especializado en la creación de apl
 
 ### Core Technologies
 
-- **Backend:** PHP, Laravel, Lumen, Node.js, Express
-- **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap
-- **Databases:** MySQL
-- **Tooling & DevOps:** Git, GitHub, Composer, npm, PHPUnit
-
----
-
+- **Backend:** PHP, Laravel, Lumen, Node.js, Express.js, WordPress
+- **Frontend:** JavaScript, TypeScript, React, SvelteKit, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Firebase
+- **Testing & Quality:** PHPUnit, Testing, CI/CD
+- **Tooling & DevOps:** Git, GitHub, GitHub Actions, Composer, npm, pnpm
+- **Data Engineering:** Database Design, Database Normalization, ETL Pipelines, Dashboard & Reporting
 
 ---
 
