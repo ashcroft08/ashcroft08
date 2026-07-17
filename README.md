@@ -23,24 +23,6 @@ Desarrollador Full Stack basado en Ecuador, especializado en la creación de apl
 
 ---
 
-### Proyectos Destacados
-
-#### 1. eva-oa — Entorno Virtual de Aprendizaje
-Una plataforma de e-learning fullstack con una clara separación de responsabilidades.
-- **Arquitectura:** API RESTful en **Express** que gestiona la lógica de negocio y los datos, desacoplada de un cliente SPA en **React**.
-- **Autenticación:** Sistema basado en roles con JSON Web Tokens (JWT).
-- **Features:** Gestión completa de cursos (CRUD), sistema de inscripción, y foros de discusión.
-
-#### 2. plan-comunitario-app — Sistema de Gestión de Riesgos
-Aplicación monolítica que digitaliza el Plan Comunitario de Gestión de Riesgos, construida sobre **Lumen**.
-- **Arquitectura:** Patrón MVC con el ORM Eloquent para la persistencia de datos en MySQL.
-- **UI:** Vistas tradicionales renderizadas en el servidor con Blade y estilizadas con Bootstrap.
-- **Scope:** Cubre el ciclo completo de la gestión de riesgos, desde la identificación de amenazas hasta la matriz de recursos.
-
-#### 3. ashcroft08.github.io — E-commerce Frontend
-Demostración de que no siempre se necesita un framework. Un e-commerce de presentación construido con **HTML, CSS y JavaScript puro**.
-- **Performance:** Carga rápida y sin dependencias, ideal para un sitio estático.
-- **Interactividad:** Lógica de UI y animaciones implementadas en JavaScript vanilla, mostrando un entendimiento profundo del DOM.
 
 ---
 
