@@ -26,7 +26,6 @@ Finishing my Software Engineering degree at ESPOCH (July 2026).
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Gentle Shell Desktop](https://github.com/ashcroft08/gentle-desk)** | Open-source desktop app (MIT, Windows installer in Releases) for the gentle-shell coding agent. Workspaces and chats in one tree, speaking pi's JSONL RPC instead of reimplementing the agent. | `Rust` `Tauri 2` `Svelte` `TypeScript` |
-| **[TicketFlow TI](https://github.com/ashcroft08/TicketFlow-TI)** · [demo](https://ticket-flow-ti.vercel.app) | PWA for support tickets and IT asset inventory across branches, with per-role dashboards and a repository–service–action backend. | `SvelteKit` `PostgreSQL` `Drizzle` `JWT` |
 | **[OA Inclusivos](https://github.com/ashcroft08/oa-inclusivos-auditiva)** | Learning-object platform for deaf students, embedded in Moodle through LTI 1.1. Four modules, 26 activities, accessibility checks in Playwright. My thesis. | `React` `Express` `PostgreSQL` `Docker` |
 | **[Plan Familiar](https://github.com/ashcroft08/plan-familiar-app)** | Emergency-plan generator for a national risk-management agency: threat identification, evacuation, housing assessment and Word reports from a normalized schema. | `PHP` `Lumen` `MySQL` |
 | **Kallari management platform** *(private)* | Sales, cacao-lot tracing, inventory and audit trails for an Amazonian cooperative, plus its public catalog site. | `React 19` `Express 5` `Sequelize` `Astro` |
